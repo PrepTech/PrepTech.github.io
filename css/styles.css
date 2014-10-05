@@ -272,9 +272,9 @@ Subscribe
 .subscribe h1 { color: #fff; margin-bottom: 40px; }
 .subscribe h1 span { display: block; font-size: 15px; text-transform: uppercase; font-weight: bold; margin-top: 20px; letter-spacing: 1px; }
 .subscribe input[type=text] { background-color: rgba(255, 255, 255, 0.1); border: solid 1px #fff; padding: 20px; width: 30%; color: #fff; }
-.subscribe button { background: rgba(59,89,152, 0.5); border: solid 1px rgba(59,89,152, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; margin-left: 20px; }
+.subscribe button { background: rgba(59,89,152, 0.5); border: solid 1px rgba(59,89,152, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
 .subscribe button:hover { background: rgba(59,89,152, 1); border: solid 1px rgba(59,89,152, 1); color: #fff; }
-.subscribe button2 { background: #4F4F4F; border: solid 1px rgba(59,89,152, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; margin-left: 20px; }
+.subscribe button2 { background: #4F4F4F; border: solid 1px rgba(59,89,152, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; margin-right: 20px; margin-left: 40px; }
 .subscribe button2:hover { background: #A8A8A8; border: solid 1px rgba(59,89,152, 1); color: #fff; }
 
 /* ==========================================================================
