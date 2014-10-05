@@ -1,0 +1,20 @@
+body {
+  padding-top: 120px;
+}
+
+.navbar {
+  border-width: 0 1px 4px 1px;
+}
+
+.navbar-default {
+  background-color: #3498db;
+  border-color: #2980b9;
+  color: white;
+  border-radius: 0;
+  padding: 20px 0;
+}
+
+.navbar-default .navbar-brand {
+  font-size: 25px;
+  color: white;
+}
