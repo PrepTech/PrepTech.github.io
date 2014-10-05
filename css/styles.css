@@ -275,7 +275,7 @@ Subscribe
 .subscribe button { background: rgba(59,89,152, 0.5); border: solid 1px rgba(59,89,152, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
 .subscribe button:hover { background: rgba(59,89,152, 1); border: solid 1px rgba(59,89,152, 1); color: #fff; }
 .subscribe button2 { background: #4F4F4F; border: solid 1px rgba(59,89,152, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
-.subscribe button2:hover { background: #rA8A8A8; border: solid 1px rgba(59,89,152, 1); color: #fff; }
+.subscribe button2:hover { background: #A8A8A8; border: solid 1px rgba(59,89,152, 1); color: #fff; }
 
 /* ==========================================================================
 CTA
